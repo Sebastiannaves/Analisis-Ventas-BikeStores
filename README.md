@@ -59,5 +59,10 @@ Presentar una visión resumida del desempeño comercial de las sucursales.
 Analizar el comportamiento de los clientes mediante indicadores de valor, frecuencia de compra y recompra.
 ![Customer Analysis](Imagenes/pag2_clientes.png)
 
+### Product Analysis
+Evaluar el desempeño de productos, categorías, marcas e inventario.
+![Product Analysis](Imagenes/pag3_productos.png)
+
+
 
 
