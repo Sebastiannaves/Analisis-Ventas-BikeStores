@@ -2,7 +2,7 @@
 Proyecto de análisis de ventas desarrollado con SQL Server y Power BI para evaluar el desempeño de cada sucursal e identificar los factores que influyen en sus ventas. Incluye modelado de datos, medidas DAX, KPIs y dashboards interactivos para apoyar la toma de decisiones.
 
 ## 1. Objetivo
-- Identificar los factores que afectan el desempeño comercial de las sucursales de BikeStores mediante el análisis de ventas, clientes, categorías, marcas, inventario y vendedores, utilizando SQL Server y Power BI.
+Identificar los factores que afectan el desempeño comercial de las sucursales de BikeStores mediante el análisis de ventas, clientes, categorías, marcas, inventario y vendedores, utilizando SQL Server y Power BI.
 
 ## 2. Herramientas utilizadas
 - SQL Server
@@ -52,7 +52,7 @@ Se modificó el modelo de SQL a un modelo estrella para facilitar el análisis e
 ![Modelo_datos](Imagenes/Modelo_datos.png)
 
 ### 6.2. Panorama General
-- Presentar una visión resumida del desempeño comercial de las sucursales.
+Presentar una visión resumida del desempeño comercial de las sucursales.
 ![Dashboard General](Imagenes/pag1_resumen.png)
 
 
