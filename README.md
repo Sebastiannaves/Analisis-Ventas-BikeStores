@@ -44,6 +44,15 @@ Las consultas incluyen:
 - Análisis de vendedores.
 - Análisis por ciudades.
 
-## 6. Modelo de datos
+## 6. Power BI Dashboard
+Presentación del archivo Power BI.
+
+### 6.1 Modelado de datos
 Se modificó el modelo de SQL a un modelo estrella para facilitar el análisis en Power BI. El modelo está compuesto por una tabla de hechos (Ventas) y las dimensiones de Productos, Clientes, Tiendas, Vendedores, Marcas, Categorías y Calendario.
 ![Modelo_datos](Imagenes/Modelo_datos.png)
+
+### 6.2. Panorama General
+- Presentar una visión resumida del desempeño comercial de las sucursales.
+![Dashboard General](Imagenes/pag1_resumen.png)
+
+
