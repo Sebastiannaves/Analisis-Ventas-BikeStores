@@ -33,7 +33,7 @@ Proyecto de análisis de ventas desarrollado con SQL Server y Power BI para eval
 
 ## 5. Consultas SQL
 Las consultas SQL fueron desarrolladas para responder cada una de las preguntas de negocio planteadas durante el análisis.
-📄 **Archivo completo:** [analisis_bikestore.sql](analisis_bikestore.sql)
+📄 **Archivo completo:** [analisis_bikestore.sql](SQL/analisis_bikestore.sql)
 
 Las consultas incluyen:
 - Panorama general de ventas.
