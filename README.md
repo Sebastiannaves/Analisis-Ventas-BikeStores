@@ -43,3 +43,7 @@ Las consultas incluyen:
 - Análisis de inventario.
 - Análisis de vendedores.
 - Análisis por ciudades.
+
+## 6. Modelo de datos
+Se modificó el modelo de SQL a un modelo estrella para facilitar el análisis en Power BI. El modelo está compuesto por una tabla de hechos (Ventas) y las dimensiones de Productos, Clientes, Tiendas, Vendedores, Marcas, Categorías y Calendario.
+[Modelo de datos](Images/Modelo de datos.png)
