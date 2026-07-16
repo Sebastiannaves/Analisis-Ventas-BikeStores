@@ -55,4 +55,9 @@ Se modificó el modelo de SQL a un modelo estrella para facilitar el análisis e
 Presentar una visión resumida del desempeño comercial de las sucursales.
 ![Dashboard General](Imagenes/pag1_resumen.png)
 
+### 6.3. Customer Analysis
+Analizar el comportamiento de los clientes mediante indicadores de valor, frecuencia de compra y recompra.
+![Customer Analysis](Imagenes/pag2_clientess.png)
+
+
 
